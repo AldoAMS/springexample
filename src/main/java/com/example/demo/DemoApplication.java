@@ -12,7 +12,7 @@ public class DemoApplication {
 
     @RequestMapping("/")
     String home() {
-        return "Aldo, Hola mundo desde mi primer  microservicio en java 17 desde el IPN";
+        return "Ya casi Termina, Aldo";
     }
 
     public static void main(String[] args) {
